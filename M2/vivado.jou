@@ -1,0 +1,98 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed May  6 22:26:26 2026
+# Process ID         : 18216
+# Current directory  : C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9432 C:\Users\LENOVO\OneDrive\Desktop\Notes and projects\VIth sem projects\EL\riscv _latest\riscv_cache\riscv_cache.xpr
+# Log file           : C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/vivado.log
+# Journal file       : C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache\vivado.jou
+# Running On         : DESKTOP-7S96C9H
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz
+# CPU Frequency      : 2400 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8506 MB
+# Swap memory        : 8321 MB
+# Total Virtual      : 16827 MB
+# Available Virtual  : 6713 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/riscv_cache.xpr}
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+update_compile_order -fileset sources_1
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 5000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run 3000ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache/tb_riscv_pipeline_behav.wcfg}
+source tb_cache.tcl
+run3000ns
+run 3000ns
+run 3ms
+close_sim
