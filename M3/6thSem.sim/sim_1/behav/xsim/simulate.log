@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Log written to mem_access_log.csv
+ml_done_seen     = 1
+pf_req_seen      = 1
+pf_accepted_seen = 1
+pf_filled_seen   = 1
+$finish called at time : 80045 ns : File "D:/Deepthi_Prasad/6thSem/6thSem.srcs/sim_1/imports/new/tb_cache.v" Line 118
