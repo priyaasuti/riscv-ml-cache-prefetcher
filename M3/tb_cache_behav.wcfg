@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_cache_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_cache" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="429,099,604,973 ps"></ZoomStartTime>
+      <ZoomEndTime time="429,099,605,006 ps"></ZoomEndTime>
+      <Cursor1Time time="429,099,605,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="254"></NameColumnWidth>
+      <ValueColumnWidth column_width="96"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="47" />
+   <wvobject fp_name="/tb_cache/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_valid" type="logic">
+      <obj_property name="ElementShortName">obs_valid</obj_property>
+      <obj_property name="ObjectShortName">obs_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_addr" type="array">
+      <obj_property name="ElementShortName">obs_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">obs_addr[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_hit" type="logic">
+      <obj_property name="ElementShortName">obs_hit</obj_property>
+      <obj_property name="ObjectShortName">obs_hit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_pc" type="array">
+      <obj_property name="ElementShortName">obs_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">obs_pc[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/log_fd" type="array">
+      <obj_property name="ElementShortName">log_fd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">log_fd[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/cycle_count" type="array">
+      <obj_property name="ElementShortName">cycle_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cycle_count[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/cycle_count" type="array">
+      <obj_property name="ElementShortName">cycle_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cycle_count[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/log_fd" type="array">
+      <obj_property name="ElementShortName">log_fd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">log_fd[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_addr" type="array">
+      <obj_property name="ElementShortName">obs_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">obs_addr[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_hit" type="logic">
+      <obj_property name="ElementShortName">obs_hit</obj_property>
+      <obj_property name="ObjectShortName">obs_hit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_pc" type="array">
+      <obj_property name="ElementShortName">obs_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">obs_pc[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/obs_valid" type="logic">
+      <obj_property name="ElementShortName">obs_valid</obj_property>
+      <obj_property name="ObjectShortName">obs_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/delta_window" type="array">
+      <obj_property name="ElementShortName">delta_window[63:0]</obj_property>
+      <obj_property name="ObjectShortName">delta_window[63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/delta_window" type="array">
+      <obj_property name="ElementShortName">delta_window[63:0]</obj_property>
+      <obj_property name="ObjectShortName">delta_window[63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/busy" type="logic">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/ML_PREFETCHER/ENGINE/mlp_out" type="array">
+      <obj_property name="ElementShortName">mlp_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mlp_out[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/ml_busy" type="logic">
+      <obj_property name="ElementShortName">ml_busy</obj_property>
+      <obj_property name="ObjectShortName">ml_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/ml_done" type="logic">
+      <obj_property name="ElementShortName">ml_done</obj_property>
+      <obj_property name="ObjectShortName">ml_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_accepted" type="logic">
+      <obj_property name="ElementShortName">pf_accepted</obj_property>
+      <obj_property name="ObjectShortName">pf_accepted</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_addr" type="array">
+      <obj_property name="ElementShortName">pf_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_addr[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_filled" type="logic">
+      <obj_property name="ElementShortName">pf_filled</obj_property>
+      <obj_property name="ObjectShortName">pf_filled</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_filled_addr" type="array">
+      <obj_property name="ElementShortName">pf_filled_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_filled_addr[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_hit" type="logic">
+      <obj_property name="ElementShortName">pf_hit</obj_property>
+      <obj_property name="ObjectShortName">pf_hit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_idx" type="array">
+      <obj_property name="ElementShortName">pf_idx[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_idx[3:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_req" type="logic">
+      <obj_property name="ElementShortName">pf_req</obj_property>
+      <obj_property name="ObjectShortName">pf_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/pf_tag" type="array">
+      <obj_property name="ElementShortName">pf_tag[25:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_tag[25:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/stall" type="logic">
+      <obj_property name="ElementShortName">stall</obj_property>
+      <obj_property name="ObjectShortName">stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/cache_pf_addr" type="array">
+      <obj_property name="ElementShortName">cache_pf_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cache_pf_addr[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/cache_pf_req" type="logic">
+      <obj_property name="ElementShortName">cache_pf_req</obj_property>
+      <obj_property name="ObjectShortName">cache_pf_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_accepted_w" type="logic">
+      <obj_property name="ElementShortName">pf_accepted_w</obj_property>
+      <obj_property name="ObjectShortName">pf_accepted_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_filled_addr_w" type="array">
+      <obj_property name="ElementShortName">pf_filled_addr_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_filled_addr_w[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_filled_w" type="logic">
+      <obj_property name="ElementShortName">pf_filled_w</obj_property>
+      <obj_property name="ObjectShortName">pf_filled_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_accepted_w" type="logic">
+      <obj_property name="ElementShortName">pf_accepted_w</obj_property>
+      <obj_property name="ObjectShortName">pf_accepted_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_filled_addr_w" type="array">
+      <obj_property name="ElementShortName">pf_filled_addr_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pf_filled_addr_w[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/pf_filled_w" type="logic">
+      <obj_property name="ElementShortName">pf_filled_w</obj_property>
+      <obj_property name="ObjectShortName">pf_filled_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_cache/dut/dcache/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+</wave_config>
