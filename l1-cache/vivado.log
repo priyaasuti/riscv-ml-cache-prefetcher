@@ -1,0 +1,52 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu May 14 10:57:45 2026
+# Process ID         : 26716
+# Current directory  : D:/Laptop/College/Projects/EL VI sem/riscv_cache/riscv_cache
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13604 D:\Laptop\College\Projects\EL VI sem\riscv_cache\riscv_cache\riscv_cache.xpr
+# Log file           : D:/Laptop/College/Projects/EL VI sem/riscv_cache/riscv_cache/vivado.log
+# Journal file       : D:/Laptop/College/Projects/EL VI sem/riscv_cache/riscv_cache\vivado.jou
+# Running On         : K_Victus
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 7739 MB
+# Swap memory        : 16777 MB
+# Total Virtual      : 24517 MB
+# Available Virtual  : 1897 MB
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May 14 10:59:33 2026...
+e/riscv_cache.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/LENOVO/OneDrive/Desktop/Notes and projects/VIth sem projects/EL/riscv _latest/riscv_cache' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Laptop/College/Projects/EL VI sem/riscv_cache/riscv_cache/riscv_cache.gen/sources_1'.
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimRootfs'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimSDfile'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimSDDir'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimOutDir'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimXsa'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'CosimAIKernel'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'LogicalNoCTop'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'LogicalNoCTopLib'
+ERROR: [Project 1-4421] No val for DA Elab Attr 'Dmv'
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-231] Project 'riscv_cache.xpr' was created with a future version and may or may not perform reliably with this version of Vivado. It has been opened in read-only mode for the protection of unrecognized data. Use 'File | Save Project As...' if you wish to alter a copy of the project.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:07 . Memory (MB): peak = 1183.602 ; gain = 97.020
+ERROR: [Common 17-39] 'open_project' failed due to earlier errors.
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+save_project_as riscv_cache {D:/Laptop/College/Projects/EL VI sem/riscv_cache} -force
+save_project_as: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1184.090 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May 14 10:59:52 2026...
