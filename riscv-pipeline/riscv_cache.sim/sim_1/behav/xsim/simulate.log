@@ -1,0 +1,117 @@
+Time resolution is 1 ps
+CYC   4 | PC=  4 | IF_ID=00500093 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC   5 | PC=  8 | IF_ID=00300113 | ID_EX_rd=x1 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC   6 | PC= 12 | IF_ID=002081b3 | ID_EX_rd=x2 | EX_MEM_rd=x1 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC   7 | PC= 16 | IF_ID=40208233 | ID_EX_rd=x3 | EX_MEM_rd=x2 | MEM_WB_rd=x1 | fwdA=01 fwdB=10 | stall=0 | bt=0
+CYC   8 | PC= 20 | IF_ID=00208333 | ID_EX_rd=x4 | EX_MEM_rd=x3 | MEM_WB_rd=x2 | fwdA=00 fwdB=01 | stall=0 | bt=0
+CYC   9 | PC= 24 | IF_ID=00602023 | ID_EX_rd=x6 | EX_MEM_rd=x4 | MEM_WB_rd=x3 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  10 | PC= 28 | IF_ID=00002283 | ID_EX_rd=x0 | EX_MEM_rd=x6 | MEM_WB_rd=x4 | fwdA=00 fwdB=10 | stall=0 | bt=0
+CYC  11 | PC= 32 | IF_ID=00000013 | ID_EX_rd=x5 | EX_MEM_rd=x0 | MEM_WB_rd=x6 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  12 | PC= 36 | IF_ID=00208463 | ID_EX_rd=x0 | EX_MEM_rd=x5 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  13 | PC= 40 | IF_ID=00100313 | ID_EX_rd=x8 | EX_MEM_rd=x0 | MEM_WB_rd=x5 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  14 | PC= 44 | IF_ID=00000013 | ID_EX_rd=x6 | EX_MEM_rd=x8 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  15 | PC= 48 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x6 | MEM_WB_rd=x8 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  16 | PC= 52 | IF_ID=00108463 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x6 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  17 | PC= 56 | IF_ID=06300313 | ID_EX_rd=x8 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  18 | PC= 60 | IF_ID=00200313 | ID_EX_rd=x6 | EX_MEM_rd=x8 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=1
+CYC  19 | PC= 56 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x6 | MEM_WB_rd=x8 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  20 | PC= 60 | IF_ID=00200313 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x6 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  21 | PC= 64 | IF_ID=00000013 | ID_EX_rd=x6 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  22 | PC= 68 | IF_ID=00209463 | ID_EX_rd=x0 | EX_MEM_rd=x6 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  23 | PC= 72 | IF_ID=06300393 | ID_EX_rd=x8 | EX_MEM_rd=x0 | MEM_WB_rd=x6 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  24 | PC= 76 | IF_ID=00300393 | ID_EX_rd=x7 | EX_MEM_rd=x8 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=1
+CYC  25 | PC= 72 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x7 | MEM_WB_rd=x8 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  26 | PC= 76 | IF_ID=00300393 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x7 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  27 | PC= 80 | IF_ID=00000013 | ID_EX_rd=x7 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  28 | PC= 84 | IF_ID=010004ef | ID_EX_rd=x0 | EX_MEM_rd=x7 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  29 | PC= 88 | IF_ID=06300413 | ID_EX_rd=x9 | EX_MEM_rd=x0 | MEM_WB_rd=x7 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  30 | PC= 96 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x9 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  31 | PC=100 | IF_ID=00400413 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x9 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  32 | PC=104 | IF_ID=01848493 | ID_EX_rd=x8 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  33 | PC=108 | IF_ID=00048567 | ID_EX_rd=x9 | EX_MEM_rd=x8 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  34 | PC=112 | IF_ID=00000013 | ID_EX_rd=x10 | EX_MEM_rd=x9 | MEM_WB_rd=x8 | fwdA=10 fwdB=00 | stall=0 | bt=0
+CYC  35 | PC=108 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x10 | MEM_WB_rd=x9 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  36 | PC=112 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x10 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  37 | PC=116 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  38 | PC=120 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  39 | PC=124 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  40 | PC=128 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  41 | PC=132 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  42 | PC=136 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  43 | PC=140 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  44 | PC=144 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  45 | PC=148 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  46 | PC=152 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  47 | PC=156 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  48 | PC=160 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  49 | PC=164 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  50 | PC=168 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  51 | PC=172 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  52 | PC=176 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  53 | PC=180 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  54 | PC=184 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  55 | PC=188 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  56 | PC=192 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  57 | PC=196 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  58 | PC=200 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  59 | PC=204 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  60 | PC=208 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  61 | PC=212 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  62 | PC=216 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  63 | PC=220 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  64 | PC=224 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  65 | PC=228 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  66 | PC=232 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  67 | PC=236 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  68 | PC=240 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  69 | PC=244 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  70 | PC=248 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  71 | PC=252 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  72 | PC=256 | IF_ID=00000013 | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  73 | PC=260 | IF_ID=xxxxxxxx | ID_EX_rd=x0 | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  74 | PC=264 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=x0 | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  75 | PC=268 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=x0 | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  76 | PC=272 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  77 | PC=276 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  78 | PC=280 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  79 | PC=284 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  80 | PC=288 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  81 | PC=292 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  82 | PC=296 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+CYC  83 | PC=300 | IF_ID=xxxxxxxx | ID_EX_rd=xx | EX_MEM_rd=xx | MEM_WB_rd=xx | fwdA=00 fwdB=00 | stall=0 | bt=0
+
+============================================================
+  REGISTER FILE SNAPSHOT  (after 80 cycles)
+============================================================
+
+--- ALU & Forwarding ---
+  PASS                                x1 =   5  (addi x1,x0,5)
+  PASS                                x2 =   3  (addi x2,x0,3)
+  PASS                                x3 =   8  (add  x3,x1,x2  (EX/MEM?EX fwd))
+  PASS                                x4 =   2  (sub  x4,x1,x2)
+
+--- Load / Store ---
+  PASS                                x5 =   8  (lw x5,0(x0)  (load-use stall))
+  INFO  dmem[0] = 8  (expect 8 from SW)
+
+--- BEQ not taken (x1=5 != x2=3) ---
+  PASS                                x6 =   2  (ter BEQ-NT then x6=2 after BEQ-T)
+
+--- BEQ taken (x1==x1) -> skip addi 99, land on addi x6,2 ---
+  INFO  x6 final = 2 (1 from BEQ-NT path then 2 from BEQ-T path)
+
+--- BNE taken (x1=5 != x2=3) -> skip addi 99, land on addi x7,3 ---
+  PASS                                x7 =   3  (addi x7,x0,3  (bne target))
+
+--- JAL x9,+16 at PC=80 -> target=96, retaddr=84 ---
+  PASS                                x8 =   4  (addi x8,x0,4 at jal target PC=96)
+  PASS                                x9 = 108  (x9=84(retaddr)+24=108)
+
+--- JALR x10,x9,0 at PC=104 -> target=108, retaddr=108 ---
+  PASS                               x10 = 108  (jalr retaddr = 104+4 = 108)
+
+============================================================
+  TOTAL=10  PASS=10  FAIL=0
+============================================================
+
+$finish called at time : 830 ns : File "D:/riscv_cache/riscv_cache.srcs/sim_1/imports/tb_riscv_pipeline.v" Line 140
