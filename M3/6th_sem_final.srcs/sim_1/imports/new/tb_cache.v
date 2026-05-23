@@ -74,8 +74,8 @@ initial begin
     $timeformat(-9, 0, "ns", 10);
     clk = 0; rst = 1; cycle_count = 0;
 
-    $display("Writing simulation log to D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final/mem_access_log_updated.csv");
-    log_fd = $fopen("D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final/mem_access_log_updated.csv", "w");
+    $display("Writing simulation log to mem_access_log.csv");
+    log_fd = $fopen("mem_access_log.csv", "w");
     if (log_fd == 0) begin
         $display("ERROR: could not open log file");
         $finish;
