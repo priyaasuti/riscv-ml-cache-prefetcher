@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri May 15 04:39:31 2026
+# Process ID         : 27600
+# Current directory  : D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent12176 D:\Laptop\College\Projects\EL VI sem\6th_sem_final\6th_sem_final\6th_sem_final.xpr
+# Log file           : D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final/vivado.log
+# Journal file       : D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final\vivado.jou
+# Running On         : K_Victus
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 7739 MB
+# Swap memory        : 24626 MB
+# Total Virtual      : 32366 MB
+# Available Virtual  : 6119 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Laptop/College/Projects/EL VI sem/6th_sem_final/6th_sem_final/6th_sem_final.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source ml_prefetcher.tcl
+run all
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top tb_cache [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+relaunch_sim
+run all
+close_sim
